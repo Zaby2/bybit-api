@@ -16,8 +16,8 @@ public class AccountInfo {
     }
     public static void main(String[] args) {
         AccountInfo acc = new AccountInfo();
-        acc.setApiKey("WsbeDjHgCxk66dDuFy");
-        acc.setApiSecret("69VcrfjXJ2qxxk7k5jYKx16aXv0ee8EVVy1F");
+        acc.setApiKey("");
+        acc.setApiSecret("");
         acc.getInfo();
     }
 }
