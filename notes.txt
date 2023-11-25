@@ -1,0 +1,3 @@
+     //String uri = "wss://stream.bybit.com/realtime";
+//            String uri = "wss://stream.bytick.com/realtime";
+//            String uri = "wss://stream-testnet.bybit-cn.com/realtime";
